@@ -33,7 +33,7 @@ The project contains the following elements:
 
 1. *Clone the Repository*:
    bash
-   git clone https://https://github.com/Kamaleshkumar1711/Visualizing-Sales-data-using-PowerB.git
+   git clone https://github.com/Kamaleshkumar1711/Visualizing-Sales-data-using-PowerB.git
    
    
 2. *Open Power BI Desktop*: 
